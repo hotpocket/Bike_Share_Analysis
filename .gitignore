@@ -1,0 +1,11 @@
+bin
+lib
+lib64
+share
+.tags*
+.idea
+__pycache__
+*.pyc
+.ipynb_checkpoints
+trash
+.python_version
